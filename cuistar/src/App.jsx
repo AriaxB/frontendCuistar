@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-      <h1>Nico</h1>
+      <h1>Manu</h1>
        
     </>
   )
