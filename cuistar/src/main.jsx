@@ -7,7 +7,6 @@ import Venta from './ventas/componentes/Venta.jsx'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
-    <Venta />
     <Componente />
   </React.StrictMode>
 )
